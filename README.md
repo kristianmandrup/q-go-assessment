@@ -2,6 +2,8 @@
 
 # QGO Desktop Assessment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/q-go-assessment.svg)](https://greenkeeper.io/)
+
 ## Overview
 
 Thanks for your interest a development role on the QGO Desktop team!
